@@ -1,0 +1,7 @@
+{"type":"state","url":"https://example.org"}
+{"type":"action","name":"click_search"}
+{"type":"state","url":"https://example.org/search"}
+{"type":"action","name":"type_query"}
+{"type":"action","name":"type_query"}
+{"type":"action","name":"click_result"}
+{"type":"stop","success":true}
