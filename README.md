@@ -17,3 +17,6 @@ A focused toolkit to analyze trajectories from visual web agents.
 pip install -e .
 python examples/analyze.py
 ```
+
+## Batch mode
+Use `python examples/batch_analyze.py` to summarize multiple runs.
